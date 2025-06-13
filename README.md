@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Aidan</h1>
 <h3 align="center">Senior Electrical Engineering Student at The Cooper Union</h3>
-<h5 align="center"> Dual Bachelor's and Master's Degree in Electrical Engineering in four years.</h5>
+<h5 align="center"> Four Year Dual Bachelor's and Master's Degree in Electrical Engineering</h5>
 
 - 🔭 View my website [www.aidancusa.dev](www.aidancusa.dev/)
 - 👨‍💻 All of my projects are available at [www.aidancusa.dev/portfolio](www.aidancusa.dev/portfolio)
@@ -48,3 +48,4 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidan4478d&" alt="aidan4478d" /></p>
+<h3 align="center"> Check out some of my projects below! </h3>
