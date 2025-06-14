@@ -4,7 +4,7 @@
 
 - 🔭 View my website [www.aidancusa.dev](www.aidancusa.dev/)
 - 👨‍💻 All of my projects are available at [www.aidancusa.dev/portfolio](www.aidancusa.dev/portfolio)
-- 📫 How to reach me **aidan.cooperunion@gmail.com**
+- 📫 Reach me at **aidan.cooperunion@gmail.com**
 
 <p align="left">
 </p>
