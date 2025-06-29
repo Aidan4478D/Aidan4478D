@@ -3,7 +3,7 @@
 <h5 align="center"> Four Year Dual Bachelor's and Master's Degree in Electrical Engineering</h5>
 
 - 🔭 View my website [www.aidancusa.dev](https://www.aidancusa.dev/)
-- 👨‍💻 All of my projects are available at [www.aidancusa.dev/portfolio](https://www.aidancusa.dev/portfolio)
+- 👨‍💻 All of my projects are available at [www.aidancusa.dev/portfolio](https://www.aidancusa.dev/#/portfolio)
 - 📫 Reach me at **aidan.cooperunion@gmail.com**
 
 <p align="left">
