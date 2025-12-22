@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Aidan</h1>
+<h1 align="center">Hello! I'm Aidan Cusa</h1>
 <h3 align="center">Senior Electrical Engineering Student at The Cooper Union</h3>
 <h5 align="center"> Four-Year Dual Bachelor's and Master's Degree in Electrical Engineering</h5>
 
